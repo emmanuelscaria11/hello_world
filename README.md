@@ -1,2 +1,2 @@
 # hello_world
-just another repository
+this is a feature branch necessory to learn
